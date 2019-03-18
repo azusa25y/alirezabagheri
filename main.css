@@ -16,7 +16,7 @@ body{
 	color:#00003F;
 }
 h1{
-    text-align:center;	
+        text-align:center;	
 	font-size: 42px;
 }
 #menu{
@@ -48,8 +48,8 @@ h1{
 }
 
 #topinfo{
-	padding-top:70px;
-	padding-bottom:45px;
+	padding-top:50px;
+	padding-bottom:25px;
 	padding-left:10px;
 	width: 1020px;	
 }
